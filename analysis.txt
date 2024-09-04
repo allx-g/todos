@@ -1,0 +1,32 @@
+> intro to real analysis
+
+================================================================================
+TODO    (9/3/24 -- 9/9/24)
+        Week 1
+================================================================================
+
+[] log office hours
+    - four hours total:
+        * mo 3-4:30pm
+        * we 2-3:30pm
+        * fr 2-3pm
+        * office 405 SMUD
+
+[] review topics based on topic scheduled for week 1
+
+[] review syllabus again before class
+
+[] review expectations + advice sheet again before and after class
+
+[] submit theorem and defintion sheet (due: every mo 4am)
+    - two lists:
+        * all theorems + results from lecture
+        * all relevant definitions
+    - only submit theorems/defns. from previous week of classes
+    - submit as PDF
+    - check example before submitting
+
+--------------------------------------------------------------------------------
+COMPLETED
+(move finished tasks here with Alt + arrows)
+--------------------------------------------------------------------------------
