@@ -4,13 +4,60 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Todos</title>
+		<style>
+			body {
+				background: #1d1d1d;
+				margin: 2rem;
+				overflow-x: scroll;
+				display: grid;
+				gap: 2rem;
+			}
+
+			.frame-container {
+				display: flex;
+				gap: 2rem;
+			}
+
+			iframe {
+				flex-basis: 800px;
+				height: 90vh;
+				flex: 1;
+				border: white dashed 1px;
+				box-shadow: 3px 3px 10px 5px rgb(19, 19, 19);
+			}
+		</style>
 	</head>
 	<body>
-		<ul>
-			<li><a href="./analysis.txt">Analysis</a></li>
-			<li><a href="./evolutionary.txt">Evolutionary</a></li>
-			<li><a href="./systems-1.txt">Systems</a></li>
-			<li><a href="#">Qualitative</a> under construction</li>
-		</ul>
+		<div class="frame-container">
+			<iframe
+				src="./analysis.txt"
+				frameborder="0"
+				scrolling="auto"
+				id="1"
+			>
+			</iframe>
+			<iframe
+				src="./systems-1.txt"
+				frameborder="0"
+				scrolling="auto"
+				id="2"
+			>
+			</iframe>
+		</div>
+		<div class="frame-container">
+			<iframe
+				src="./evolutionary.txt"
+				frameborder="0"
+				scrolling="auto"
+				id="3"
+			>
+			</iframe>
+			<iframe
+				src="./qualitative.txt"
+				frameborder="0"
+				scrolling="auto"
+				id="4"
+			></iframe>
+		</div>
 	</body>
 </html>

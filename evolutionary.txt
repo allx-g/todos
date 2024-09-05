@@ -5,9 +5,17 @@ TODO    (9/3/24 -- 9/9/24)
         Week 1
 ================================================================================
 
-[]
+[] practice Clojure
+    - go to unconvered areas in Clojure website guide
+    - use Clojinc for problems
 
 --------------------------------------------------------------------------------
 COMPLETED
+
+[X] try Clojure quickstart
+
+[X] review "And now, digital evolution"
+
+[X] review any parts of "Clojure in a Nutshell"
 
 --------------------------------------------------------------------------------

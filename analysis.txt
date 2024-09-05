@@ -5,20 +5,14 @@ TODO    (9/3/24 -- 9/9/24)
         Week 1
 ================================================================================
 
-[] log office hours
+[]  log office hours
     - four hours total:
         * mo 3-4:30pm
         * we 2-3:30pm
         * fr 2-3pm
         * office 405 SMUD
 
-[] review topics based on topic scheduled for week 1
-
-[] review syllabus again before class
-
-[] review expectations + advice sheet again before and after class
-
-[] submit theorem and defintion sheet (due: every mo 4am)
+[]  submit theorem and defintion sheet (due: every mo 4am)
     - two lists:
         * all theorems + results from lecture
         * all relevant definitions
@@ -26,7 +20,23 @@ TODO    (9/3/24 -- 9/9/24)
     - submit as PDF
     - check example before submitting
 
+[]  homework 1
+    [] read Abbott 1.1, 1.2
+        [->>] progress: 1.1 done, 1.2 almost done
+        - for 1.2, finish Induction section.
+    - understand irrationality of sqrt(2) proof
+    - generalize the above proof
+    - review basic set operations and how they interact
+    - review math logic and proof techniques
+
+
 --------------------------------------------------------------------------------
 COMPLETED
-(move finished tasks here with Alt + arrows)
+
+[X] review syllabus again before class
+
+[X] review expectations + advice sheet again before and after class
+
+[] submit introduction sheet
+
 --------------------------------------------------------------------------------
