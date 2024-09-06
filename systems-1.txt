@@ -5,30 +5,30 @@ TODO    (9/3/24 -- 9/9/24)
         Week 1
 ================================================================================
 
-
 []  do readings (write out readings later)
     []  DDCA 1.1 - 1.5
         [->>] progress: 1.1, 1.2 done
         - pretty short
     []  DDCA 2.1 - 2.4
 
-[]  ask Pentecost about WSL and Linux usage in this course
+[]  submit lab materials (due: 10pm mo sep 9)
+    []  submit one lab submission per group (parts 0-3)
+        [->>] progress: pt.0, pt.1, pt.2 done. review with partner
+    []  submit individual reflections and collab doc
 
 []  ask Pentecost about history info
     - how familiar should we be with it?
     - will we know what to note in preparation for exams?
 
-[]  submit lab materials (due: 10pm mo sep 9)
-    [->>] progress: pt.1, pt.2 done
-    - one lab submission per group (parts 0-3)
-    - individual submissions for reflections and collab doc
-
 --------------------------------------------------------------------------------
 COMPLETED
+
+[X] practice SOP and POS
+
+[X] log TA and office hours
 
 [X]  complete pre-lab 0 before class
     [X]  skim lab-0 instructions
     [X]  note terms and other things that are unfamiliar.
-
 
 --------------------------------------------------------------------------------

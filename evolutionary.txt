@@ -9,6 +9,8 @@ TODO    (9/3/24 -- 9/9/24)
     - go to unconvered areas in Clojure website guide
     - use Clojinc for problems
 
+[] contact RICE group
+
 --------------------------------------------------------------------------------
 COMPLETED
 
